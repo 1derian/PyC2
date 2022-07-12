@@ -125,17 +125,19 @@ D:\PyC2>
 
 ## 免杀测试
 
+文件名修改 implant.exe --> agent.exe
+
 火绒
 
-![image-20220605141817304](https://picgo-1301783483.cos.ap-nanjing.myqcloud.com/image/image-20220605141817304.png)
+![image-20220605141817304](./images/1.png)
 
 360
 
-![image-20220605141848450](https://picgo-1301783483.cos.ap-nanjing.myqcloud.com/image/image-20220605141848450.png)
+![image-20220605141848450](./images/2.png)
 
 windows defender
 
-![image-20220605141903936](https://picgo-1301783483.cos.ap-nanjing.myqcloud.com/image/image-20220605141903936.png)
+![image-20220605141903936](./images/3.png)
 
 ## 免责声明🧐
 
